@@ -1,6 +1,6 @@
 ## Find sub array with required sum
 
-Given array of positive numbers and positive number 'S'.
+Given array of positive numbers and positive number S.
 Find subarray with required sum >= S. It must be sub array with minimal length .
 If there isn't one return 0 instead.
 
