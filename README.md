@@ -1,7 +1,7 @@
 # JSTasks
 
 ## Topics:
-- [Algorithms & Data Structures](1.Algorithms&DataStructures)
+- [Algorithms & Data Structures](0.Algorithms&DataStructures)
 
 ## Rules:
 - Cover all functions by unit tests.  
